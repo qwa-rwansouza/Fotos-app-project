@@ -6,9 +6,7 @@ public class Album {
 	private String endereco;
 	private String nome;
 	
-	public Album() {
-		
-	}
+	
 
 	public Integer getSequenceAlbum() {
 		return sequenceAlbum;
